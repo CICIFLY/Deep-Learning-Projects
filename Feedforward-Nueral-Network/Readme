@@ -1,2 +1,2 @@
 
-This assignment used different activation functions like linear,sigmoid,Relu to do the classification task on Iris data set.
+This assignment used different activation functions like linear,sigmoid,Relu and different hidden layers implement the classification tasks on Iris data set and pima diabetes data set.
