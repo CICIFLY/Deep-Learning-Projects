@@ -1,0 +1,10 @@
+In question 1 , the data is randomly chosen, so we can not see big
+difference of the outputs when we change hidden layers. But in general cases,
+if we add too many hidden layers, it will tend to overfitting . On the contrary,
+if too few hidden layers, the model will be underfitting. So we need to try different 
+hidden layers to find the optimal value.
+
+For question 2, for leaky Relu : my optimal hidden layer is 8 with lowest Error 0.411512796499706.
+for sigmoid, optimal hidden layer is 9 with lowest Error 0.24799204801657862
+
+
