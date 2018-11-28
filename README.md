@@ -1,3 +1,2 @@
 # Deep-Learning-Projects
-# This is an assignment for Artificial Intelligence course. 
-# I used different activations for the feedforward nueral networks
+# This includes all the assignments for Artificial Intelligence course and some deep learning projects found on the internet.
